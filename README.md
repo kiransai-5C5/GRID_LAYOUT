@@ -16,4 +16,4 @@ This project demonstrates multiple **CSS Grid Layout** techniques. It showcases 
 ## How to Run  
 Clone this repository:  
 ```bash
-git clone https://github.com/kiransai-5C5/GRID_LAYOUT.git
+https://kiransai-5c5.github.io/GRID_LAYOUT/
